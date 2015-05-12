@@ -1,3 +1,3 @@
 # ionic-sample
 
-Messin' around with ionic!
+Messin' around with [Ionic](http://ionicframework.com/)!
